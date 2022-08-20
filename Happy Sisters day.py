@@ -36,7 +36,7 @@ alphabet = {
 screen = turtle.Screen()
 screen.tracer(0,0)
 screen.setup(1000,650)
-screen.title('sistersday-by:-amazing_coder')
+screen.title('sistersday-by Pooja Patel')
 turtle.hideturtle()
     
 
